@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.wrapper {
+  padding: 20px;
+  margin: 0 auto;
+  width: 600px;
+}
+
+.rm {
+  background-color: brown;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  width: 30px;
+  height: 30px;
+  border: 1px solid black;
+}
+
+.done {
+  text-decoration: line-through;
+}
