@@ -5,7 +5,7 @@ import AddTodo from './components/AddTodo'
 
 function App() {
   const defaultTodos = [
-    { id: 1, completed: false, task: 'Купить молоко' },
+    { id: 1, completed: false, task: 'Купить молокоs' },
     { id: 2, completed: true, task: 'Купить хлеб' },
     { id: 3, completed: false, task: 'Купить яйца' }
   ]
